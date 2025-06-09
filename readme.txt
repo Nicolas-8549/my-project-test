@@ -1,2 +1,1 @@
-Hello, Git!
-readme.txt editado no branch features-teste
+Criando um readme.txt novo para teste

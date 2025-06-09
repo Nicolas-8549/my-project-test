@@ -1,2 +1,6 @@
-TESTE
+<<<<<<< HEAD
+Exemplo de conflito resolvido juntando as 2 alterações.
+=======
+Este é um exemplo de conflito.
+>>>>>>> parent of 2e51395 (Alterando .txt na master)
 

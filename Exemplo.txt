@@ -1,2 +1,1 @@
-Este é um exemplo de conflito.
-
+Exemplo de conflito no feature_conflito

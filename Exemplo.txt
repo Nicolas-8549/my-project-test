@@ -1,2 +1,2 @@
-Este é um exemplo de conflito.
+Este é um exemplo de conflito na branch master.
 
